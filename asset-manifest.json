@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-task-app/static/css/main.02336b46.css",
+    "main.js": "/employee-task-app/static/js/main.ac56649d.js",
+    "static/js/787.31df054d.chunk.js": "/employee-task-app/static/js/787.31df054d.chunk.js",
+    "index.html": "/employee-task-app/index.html",
+    "main.02336b46.css.map": "/employee-task-app/static/css/main.02336b46.css.map",
+    "main.ac56649d.js.map": "/employee-task-app/static/js/main.ac56649d.js.map",
+    "787.31df054d.chunk.js.map": "/employee-task-app/static/js/787.31df054d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02336b46.css",
+    "static/js/main.ac56649d.js"
+  ]
+}
