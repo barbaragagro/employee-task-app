@@ -1,0 +1,61 @@
+[
+    {
+        "fullName": "Barbara Gagro",
+        "email":"barbaragagro1@gmail.com",
+        "phoneNumber": "061616048949",
+        "dateOfBirth": "1998-06-02",
+        "monthlySalary":800,
+        "taskNumber":1
+    },
+    {
+        "fullName": "Charlotte Walsh",
+        "email":"charlotte.walsh@gmail.com",
+        "phoneNumber": "0634678932",
+        "dateOfBirth": "1990-03-01",
+        "monthlySalary":1500,
+        "taskNumber":4
+    },
+    {
+        "fullName": "Maxim Beltran",
+        "email":"maximbeltran@gmail.com",
+        "phoneNumber": "0609843216",
+        "dateOfBirth": "1986-10-21",
+        "monthlySalary":1100,
+        "taskNumber":2
+    },
+    {
+        "fullName": "Fintan Mccormick",
+        "email":"fintan.mccormick@gmail.com",
+        "phoneNumber": "0648964222",
+        "dateOfBirth": "1994-05-08",
+        "monthlySalary":900,
+        "taskNumber":1
+    },
+    {
+        "fullName": "Russell Barlow",
+        "email":"russellbarlow@gmail.com",
+        "phoneNumber": "062543971",
+        "dateOfBirth": "1981-11-01",
+        "monthlySalary":1000,
+        "taskNumber":2
+    },
+    {
+        "fullName": "Rico Hawkins",
+        "email":"rico.hawkins@gmail.com",
+        "phoneNumber": "0698513426",
+        "dateOfBirth": "1972-12-12",
+        "monthlySalary":2000,
+        "taskNumber":0
+    
+    },
+    {
+        "fullName": "Arran Riddle",
+        "email":"arran.riddle@gmail.com",
+        "phoneNumber": "0664495321",
+        "dateOfBirth": "1989-05-06",
+        "monthlySalary":1200,
+        "taskNumber":3
+   
+    }
+    
+]

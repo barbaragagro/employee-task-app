@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Designing and implementing UI components",
+        "description":"Description for Designing and implementing UI components.",
+        "assignee": "Charlotte Walsh",
+        "dueDate": "2023-03-02"
+    },
+    {
+        "title": "Make api calls",
+        "description":"Description for Make api calls.",
+        "assignee": "Fintan Mccormick",
+        "dueDate": "2023-03-03"
+    },
+    {
+        "title": "Developing and integrating UI libraries and frameworks",
+        "description":"Description for Developing and integrating UI libraries and frameworks.",
+        "assignee": "Barbara Gagro",
+        "dueDate": "2023-03-10"
+    },
+    {
+        "title": "Implementing UI animations and transitions",
+        "description":"Description for Implementing UI animations and transitions.",
+        "assignee": "Arran Riddle",
+        "dueDate": "2023-03-01"
+    },
+    {
+        "title": "Creating and implementing design system components",
+        "description":"Description for Creating and implementing design system components.",
+        "assignee": "Maxim Beltran",
+        "dueDate": "2023-02-22"
+    },
+    {
+        "title": "Designing and integrating user flow and interactions",
+        "description":"Description for Designing and integrating user flow and interactions.",
+        "assignee": "Arran Riddle",
+        "dueDate": "2023-03-08"
+    },
+    {
+        "title": "Create mobile app",
+        "description":"Description for Create mobile app.",
+        "assignee": "Charlotte Walsh",
+        "dueDate": "2023-03-01"
+    },
+    {
+        "title": "Building and integrating UI kits, Implementing responsive design",
+        "description":"Description for Building and integrating UI kits, Implementing responsive design.",
+        "assignee": "Russell Barlow",
+        "dueDate": "2023-03-05"
+    },
+    {
+        "title": "Implementing UI localization and internationalization, Implementing redesign of translation",
+        "description":"Description for Implementing UI localization and internationalization, Implementing redesign of translation.",
+        "assignee": "Russell Barlow",
+        "dueDate": "2023-03-02"
+    },
+    {
+        "title": "Creating wireframes and mockups",
+        "description":"Description for Creating wireframes and mockups.",
+        "assignee": "Maxim Beltran",
+        "dueDate": "2023-02-23"
+    },
+    {
+        "title": "Ensuring UI consistency across different platforms and devices",
+        "description":"Description for Ensuring UI consistency across different platforms and devices.",
+        "assignee": "Charlotte Walsh",
+        "dueDate": "2023-03-01"
+    },
+    {
+        "title": "Creating and implementing UI guidelines and best practices",
+        "description":"Description for Creating and implementing UI guidelines and best practices.",
+        "assignee": "Charlotte Walsh",
+        "dueDate": "2023-03-03"
+    },
+    {
+        "title": "Developing and integrating UI icons and images",
+        "description":"Description for Developing and integrating UI icons and images.",
+        "assignee": "Arran Riddle",
+        "dueDate": "2023-03-05"
+    }
+]
